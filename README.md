@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @BajcarM
-- 👀 I’m interested in learning to code and try out interesting projects. Here is my repository, so feel free to browse :-)
+- 👀 I am a self-taught front-end developer. 
+
+- Here are my public repositories, feel free to browse :-)
 
 
 <!---
