@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @BajcarM
-- 👀 I am a self-taught front-end developer. 
 
 - Here are my public repositories, feel free to browse :-)
 
